@@ -1,6 +1,5 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning edit by srikanth</h1>
     <p>This is from ansible fully integrated with deployment tool ansible</p>
     <p> final changes for CI AND CD are made</p>
     <p>Please fill in this form to create an account.</p>
